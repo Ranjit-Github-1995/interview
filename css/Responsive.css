@@ -1,0 +1,2149 @@
+@media only screen (min-width: 1920px) and (max-width: 2099px){
+    
+    
+}
+
+@media only screen and (min-width:1600px) and (max-width:1918px){
+    
+    
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px){
+    
+    
+}
+
+@media only screen and (min-width:1200px) and (max-width:1342px){
+    
+    /*** banner sec start ***/
+    
+    .banner{
+        height: 805px;
+    }
+    .banner .banner_cap{
+        padding-top: 75px;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** about_us sec start ***/
+    
+    .about_us ul li .left_pic_about{
+        background-size: auto 91%;
+    }
+    .about_us ul li:nth-child(2n) .left_pic_about{
+        background-size: auto 88%;
+    }
+    
+    /*** about_us sec end ***/
+    
+    /*** our products sec start ***/
+    
+    .our_products h2{
+        padding-top: 30%;
+    }
+    
+    /*** our products sec end ***/
+    
+}
+
+
+@media only screen and (min-width:960px) and (max-width:1199px){
+    
+
+    
+    /*** banner sec start ***/
+    .banner{
+        height: 560px;
+    }
+    .banner .logo_nav .logo img{
+        width: 71%;
+    }
+    #header .navMenu ul li{
+        padding: 19px 10px;
+    }
+    #header .navMenu ul li::after{
+        top: 28px;
+        right: -3px;
+    }
+    #header .navMenu ul li:last-child a{
+        padding-right: 15px;
+    }
+    #header .navMenu ul li{
+        padding: 7px 10px;
+    }
+    #header .navMenu ul li a:hover{
+        padding-bottom: 10px;
+    }
+    #header .navMenu ul{
+        margin: 0px -26px 0px 0px;
+    }
+
+    .banner .banner_cap{
+        padding-top: 20px;
+    }
+    .banner .banner_cap h1{
+        font-size: 42px;
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding-bottom: 0px;
+        line-height: 50px;
+        width: 98%;
+    }
+    .banner .banner_cap p{
+        font-size: 17px;
+        line-height: 28px;
+        width: 63%;
+        padding-bottom: 25px;
+    }
+    .banner .banner_cap a.get_to_ccg{
+        padding: 16.35px 14.2px;
+        margin-bottom: 10px;
+    }
+    .banner .banner_cap .follow ul li:first-child{
+        margin-left: 15px;
+    }
+    #scroll{
+        display: none;
+    }
+    #scroll-down::before{
+        left: 39%;
+        height: 60px;
+        bottom: 0%;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** about CCG sec start ***/
+    
+    .about_ccg{
+        margin-top: -81px;
+    }
+    .about_ccg ul li .outer_left_pic{
+        width: 45%;
+        margin-right: 55px;
+        height: auto;
+    }
+    .about_ccg ul li .outer_left_pic::after{
+        bottom: -12%;
+    }
+    .about_ccg ul li .outer_left_pic img{
+        margin-left: -115px;
+    }
+    .about_ccg ul li .about_ccg_content{
+        padding-top: 130px;
+    }
+    .about_ccg ul li .about_ccg_content h6{
+        padding-bottom: 20px;
+    }
+    .about_ccg ul li .about_ccg_content h2{
+        padding-bottom: 20px;
+    }
+    .about_ccg ul li .about_ccg_content::before{
+        margin-bottom: 0px;
+        top: 26%;
+    }
+    .about_ccg ul li .about_ccg_content p{
+        margin-top: 30px;
+        font-size: 14px;
+        padding-bottom: 22px;
+    }
+    .about_ccg .five_box{
+        width: auto;
+        margin-top: 105px;
+    }
+    .about_ccg .five_box ul li{
+        width: 167px;
+    }
+    .about_ccg .five_box ul li h4{
+        font-size: 16px;
+    }
+    .about_ccg .five_box ul li:first-child{
+        margin-left: 15px;
+    }
+    
+    /*** about CCG sec end ***/
+    
+    /*** what we do sec start ***/
+    
+    .we_do img.core{
+        left: 38%;
+    }
+    .we_do .we_do_content .bg_white{
+        height: 453px;
+    }
+    .we_do .we_do_content .bg_white .center_icon img{
+        width: 85%;
+    }
+    .we_do .we_do_content .bg_white .center_icon.tab_org img{
+        width: 60%;
+    }
+    .we_do .we_do_content .bg_white h5{
+        width: 100%;
+        font-size: 20px;
+    }
+    .we_do .we_do_content .bg_white p{
+        width: 84%;
+        padding-top: 16px;
+    }
+    .we_do .we_do_content .bg_white .center_icon{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.man_con{
+        width: 100%;
+    }
+    .we_do .we_do_content .bg_white .center_icon.org{
+        padding-bottom: 32px;
+    }
+    .we_do .we_do_content .bg_white .center_icon.man{
+        padding-bottom: 62px;
+    }
+    .we_do .we_do_content .bg_white p.man_pra{
+        width: 84%;
+        padding-top: 19px;
+        padding-bottom: 0px;
+    }
+    .we_do .we_do_content .bg_white p.org_pra{
+        width: 84%;
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    .we_do .we_do_content .bg_white h5.org_con{
+        width: 100%;
+        padding-top: 18px;
+    }
+    .we_do .we_do_content .tab{
+        padding: 0 8.5px !important;
+    }
+    
+    /*** what we do sec end ***/
+    
+    /*** testmonial sec start ***/
+    
+    .testmonial img.test_shape{
+        left: 40%;
+    }
+    .testmonial .test_border{
+        background-size: 96%;
+        margin-top: 70px;
+    }
+    .testmonial .test_border p{
+        padding: 50px 70px 80px 70px;
+        font-size: 26px;
+    }
+    .testmonial img.test_right_dot{
+        margin-right: 32px;
+        margin-top: -20px;
+    }
+    .testmonial .slick-prev, .slick-next{
+        visibility: hidden;
+    }
+    
+    /*** testmonial sec end ***/
+    
+    /*** our clients sec start ***/
+    
+    .work_with .work_con{
+        padding-top: 75px;
+    }
+    .work_with .work_con .work_bg{
+        width: 130px;
+    }
+.work_with .work_con .work_bg i {
+	   background-size: 100%;
+	   width: 100%;
+	   height: 100%;
+    }
+    .work_with .work_con .work_bg i img{
+        width: 100%;
+    }
+    .work_with .work_con .slick-next{
+        visibility: visible;
+    }
+    .work_with .work_con .slick-prev{
+        left: 70%;
+    }
+    
+    
+    /*** our clients sec end ***/
+    
+    
+    /*** contact sec start ***/
+    
+    .contact_us .contact_form{
+        width: 63%;
+    }
+    
+    /*** contact sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer .footer_content img{
+        width: 60%;
+    }
+    .footer .footer_nav{
+        padding: 0px;
+    }
+    .footer .footer_content .footer_nav h4{
+        font-size: 20px;
+    }
+    .footer .footer_content .footer_nav ul li{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li:first-child{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li a{
+        text-align: center;
+        display: block;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(2n) a i{
+        text-align: center;
+        float: none;
+        display: block;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(3n) a i {
+        top: 5px;
+        float: none;
+        text-align: center;
+        margin: 0px;
+        display: block;
+    }
+    .footer .footer_content .footer_nav ul li a i.m_footer {
+	   float: none;
+	   text-align: center;
+	   margin: 0px auto;
+	   display: block;
+	   padding-bottom: 10px;
+    }
+    .footer img.footer_border{
+        width: 100%;
+    }
+    .footer p.copyright{
+        padding: 40px 0px;
+    }
+    
+    /*** footer sec end ***/
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+    
+    .footer .footer_content .footer_nav ul li a i.m_footer{
+        padding-bottom: 33%;
+    }
+    
+}
+
+
+@media only screen and (min-width: 769px) and (max-width: 959px){
+    
+    /*** banner sec start ***/
+    
+    .banner{
+        height: 560px;
+    }
+    .banner .logo_nav .logo img{
+        width: 71%;
+    }
+    #header .navMenu ul li{
+        padding: 19px 10px;
+    }
+    #header .navMenu ul li::after{
+        top: 28px;
+        right: -3px;
+    }
+    #header .navMenu ul li:last-child a{
+        padding-right: 15px;
+    }
+    #header .navMenu ul li{
+        padding: 7px 10px;
+    }
+    #header .navMenu ul li a:hover{
+        padding-bottom: 10px;
+    }
+    #header .navMenu ul{
+        margin: 0px -26px 0px 0px;
+    }
+
+    .banner .banner_cap{
+        padding-top: 20px;
+    }
+    .banner .banner_cap h1{
+        font-size: 42px;
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding-bottom: 0px;
+        line-height: 50px;
+        width: 98%;
+    }
+    .banner .banner_cap p{
+        font-size: 17px;
+        line-height: 28px;
+        width: 63%;
+        padding-bottom: 25px;
+    }
+    .banner .banner_cap a.get_to_ccg{
+        padding: 16.35px 14.2px;
+        margin-bottom: 10px;
+    }
+    .banner .banner_cap .follow ul li:first-child{
+        margin-left: 15px;
+    }
+    #scroll{
+        display: none;
+    }
+    #scroll-down::before{
+        left: 39%;
+        height: 60px;
+        bottom: 0%;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** about CCG sec start ***/
+    
+    .about_ccg{
+        margin-top: -81px;
+    }
+    .about_ccg ul li .outer_left_pic{
+        width: 45%;
+        margin-right: 55px;
+        height: auto;
+    }
+    .about_ccg ul li .outer_left_pic::after{
+        bottom: -20%;
+    }
+    .about_ccg ul li .outer_left_pic img{
+        margin-left: -22px;
+    }
+    .about_ccg ul li .about_ccg_content{
+        padding-top: 130px;
+    }
+    .about_ccg ul li .about_ccg_content h6{
+        padding-bottom: 20px;
+    }
+    .about_ccg ul li .about_ccg_content h2{
+        padding-bottom: 20px;
+    }
+    .about_ccg ul li .about_ccg_content::before{
+        margin-bottom: 0px;
+        top: 26%;
+    }
+    .about_ccg ul li .about_ccg_content p{
+        margin-top: 30px;
+        font-size: 14px;
+        padding-bottom: 22px;
+    }
+    .about_ccg .five_box{
+        width: auto;
+        margin-top: 60px;
+    }
+    .about_ccg .five_box ul li{
+        width: 129px;
+    }
+    .about_ccg .five_box ul li h4{
+        font-size: 16px;
+    }
+    .about_ccg .five_box ul li:first-child{
+        margin-left: 15px;
+    }
+    
+    /*** about CCG sec end ***/
+    
+    /*** what we do sec start ***/
+    
+    .we_do img.core{
+        left: 38%;
+    }
+    .we_do .we_do_content .bg_white{
+        height: 453px;
+    }
+    .we_do .we_do_content .bg_white .center_icon img{
+        width: 85%;
+    }
+    .we_do .we_do_content .bg_white .center_icon.tab_org img{
+        width: 60%;
+    }
+    .we_do .we_do_content .bg_white h5{
+        width: 100%;
+        font-size: 20px;
+    }
+    .we_do .we_do_content .bg_white p{
+        width: 84%;
+        padding-top: 16px;
+    }
+    .we_do .we_do_content .bg_white .center_icon{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.man_con{
+        width: 100%;
+    }
+    .we_do .we_do_content .bg_white .center_icon.org{
+        padding-bottom: 17px;
+    }
+    .we_do .we_do_content .bg_white .center_icon.man{
+        padding-bottom: 45px;
+    }
+    .we_do .we_do_content .bg_white p.man_pra{
+        width: 84%;
+        padding-top: 5px;
+        padding-bottom: 0px;
+    }
+    .we_do .we_do_content .bg_white p.org_pra{
+        width: 84%;
+        padding-top: 4px;
+        padding-bottom: 0px;
+    }
+    .we_do .we_do_content .bg_white h5.org_con{
+        width: 100%;
+        padding-top: 18px;
+    }
+    .we_do .we_do_content .tab{
+        padding: 0 8.5px !important;
+    }
+    
+    /*** what we do sec end ***/
+    
+    /*** testmonial sec start ***/
+    
+    .testmonial img.test_shape{
+        left: 40%;
+    }
+    .testmonial .test_border{
+        background-size: 98%;
+        margin-top: 70px;
+    }
+    .testmonial .test_border p{
+        padding: 130px 70px 15px 70px;
+        font-size: 22px;
+        line-height: 34px;
+    }
+    .testmonial .test_border h5{
+        font-size: 18px;
+    }
+    .testmonial img.test_right_dot{
+        margin-right: 32px;
+        margin-top: -20px;
+    }
+    .testmonial .slick-prev, .slick-next{
+        visibility: hidden;
+    }
+    
+    /*** testmonial sec end ***/
+    
+    /*** our clients sec start ***/
+    
+    .work_with .work_con{
+        padding-top: 75px;
+    }
+    .work_with .work_con .work_bg{
+        width: 107px;
+    }
+.work_with .work_con .work_bg i {
+	   background-size: 100%;
+	   width: 100%;
+	   height: 100%;
+    }
+    .work_with .work_con .work_bg i img{
+        width: 100%;
+    }
+    .work_with .work_con .slick-next{
+        visibility: visible;
+    }
+    .work_with .work_con .slick-prev{
+        left: 63%;
+    }
+    
+    
+    /*** our clients sec end ***/
+    
+    
+    /*** contact sec start ***/
+    
+    .contact_us .contact_form{
+        width: 79%;
+    }
+    .contact_us .contact_form .inner ul li textarea{
+        width: 580px;
+    }
+    
+    /*** contact sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: -130px;
+    }
+    .footer .footer_content .tab_view{
+        padding: 0 0px;
+    }
+    .footer .footer_content img{
+        width: 60%;
+    }
+    .footer .footer_nav{
+        padding: 0px;
+    }
+    .footer .footer_content .footer_nav h4{
+        font-size: 20px;
+    }
+    .footer .footer_content .footer_nav ul li{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li:first-child{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li a{
+        text-align: center;
+        display: block;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(2n) a i{
+        text-align: center;
+        float: none;
+        display: block;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(3n) a i {
+        top: 5px;
+        float: none;
+        text-align: center;
+        margin: 0px;
+        display: block;
+    }
+    .footer .footer_content .footer_nav ul li a.con_em{
+        font-size: 12px;
+    }
+    .footer .footer_content .footer_nav ul li a i.m_footer {
+	   float: none;
+	   text-align: center;
+	   margin: 0px auto;
+	   display: block;
+	   padding-bottom: 10px;
+    }
+    .footer .footer_content ul li.social_box:last-child {
+        padding: 5px 10px;
+        margin-top: 15px;
+        margin-left: 28px;
+    }
+    .footer .footer_content .footer_nav p{
+        font-size: 14px;
+    }
+    .footer img.footer_border{
+        width: 100%;
+    }
+    .footer p.copyright{
+        padding: 40px 0px;
+    }
+    
+    /*** footer sec end ***/
+    
+}
+
+
+@media only screen and (min-width: 641px) and (max-width: 768px){
+    
+    /*** banner sec start ***/
+    
+    .banner{
+        height: 560px;
+    }
+    .banner .logo_nav .logo img{
+        width: 40%;
+    }
+    .mean-container .mean-bar{
+        margin-top: 0px;
+    }
+    .mean-container .mean-nav{
+        width: 210%;
+    }
+    #header .navMenu ul li{
+        padding: 19px 10px;
+    }
+    #header .navMenu ul li::after{
+        top: 28px;
+        right: -3px;
+    }
+    #header .navMenu ul li:last-child a{
+        padding-right: 15px;
+    }
+    #header .navMenu ul li{
+        padding: 7px 10px;
+    }
+    #header .navMenu ul li a:hover{
+        padding-bottom: 10px;
+    }
+    #header .navMenu ul{
+        margin: 0px -26px 0px 0px;
+    }
+
+    .banner .banner_cap{
+        padding-top: 20px;
+    }
+    .banner .banner_cap h1{
+        font-size: 40px;
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding-bottom: 0px;
+        line-height: 50px;
+        width: 98%;
+    }
+    .banner .banner_cap p{
+        font-size: 15px;
+        line-height: 28px;
+        width: 63%;
+        padding-bottom: 25px;
+    }
+    .banner .banner_cap .follow{
+        display: none;
+    }
+    .banner .banner_cap a.get_to_ccg{
+        padding: 16.35px 14.2px;
+        margin-bottom: 10px;
+    }
+    #scroll{
+        display: none;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** about CCG sec start ***/
+    
+    .about_ccg{
+        margin-top: -81px;
+    }
+    .about_ccg ul li .outer_left_pic{
+        width: 45%;
+        margin-right: 55px;
+        height: auto;
+    }
+    .about_ccg ul li .outer_left_pic::after{
+        bottom: -20%;
+    }
+    .about_ccg ul li .outer_left_pic img{
+        margin-left: -22px;
+    }
+    .about_ccg ul li .about_ccg_content{
+        padding-top: 130px;
+    }
+    .about_ccg ul li .about_ccg_content h6{
+        padding-bottom: 20px;
+    }
+    .about_ccg ul li .about_ccg_content h2{
+        padding-bottom: 20px;
+        font-size: 36px;
+    }
+    .about_ccg ul li .about_ccg_content::before{
+        display: none;
+    }
+    .about_ccg ul li .about_ccg_content p{
+        margin-top: -10px;
+        font-size: 14px;
+        padding-bottom: 22px;
+    }
+    .about_ccg .five_box{
+        width: auto;
+        margin-top: 30px;
+    }
+    .about_ccg .five_box ul li{
+        width: 183px;
+    }
+    .about_ccg .five_box ul li:nth-child(3n){
+        margin-right: 0px;
+    }
+    .about_ccg .five_box ul li:nth-child(4n){
+        margin: 30px 0px 30px 120px; 
+    }
+    .about_ccg .five_box ul li:nth-child(5n){
+        margin: 30px 0px 30px 30px;
+    }
+    .about_ccg .five_box ul li h4{
+        font-size: 16px;
+    }
+    .about_ccg .five_box ul li:first-child{
+        margin-left: 15px;
+    }
+    
+    /*** about CCG sec end ***/
+    
+    /*** what we do sec start ***/
+    
+    .we_do h6{
+        padding-top: 405px;
+    }
+    .we_do h4{
+        font-size: 36px;
+    }
+    .we_do img.core{
+        display: none;
+    }
+    .we_do .we_do_content{
+        padding-top: 0px;
+    }
+    .we_do .we_do_content .bg_white{
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .we_do .we_do_content .bg_white .center_icon img{
+        width: auto;
+    }
+    .we_do .we_do_content .bg_white .center_icon.tab_org img{
+        width: auto;
+    }
+    .we_do .we_do_content .bg_white h5{
+        width: 100%;
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    .we_do .we_do_content .bg_white p {
+	   width: 84%;
+	   padding-top: 0;
+	   padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white .center_icon{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.man_con{
+        width: 100%;
+    }
+    .we_do .we_do_content .bg_white .center_icon.org{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white .center_icon.man{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white p.man_pra{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white p.org_pra{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.org_con{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 15px;
+    }
+    .we_do .we_do_content .tab{
+        padding: 0 8.5px !important;
+    }
+    
+    /*** what we do sec end ***/
+    
+    /*** testmonial sec start ***/
+    
+    .testmonial{
+        height: 570px;
+    }
+    .testmonial h6{
+        padding-top: 100px;
+    }
+    .testmonial img.test_shape{
+        display: none;
+    }
+    .testmonial h4{
+        font-size: 35px;
+    }
+    .testmonial .test_border{
+        background-size: 98%;
+        margin-top: -23px;
+    }
+    .testmonial .test_border p{
+        padding: 70px 70px 15px 70px;
+        font-size: 16px;
+        line-height: 34px;
+    }
+    .testmonial .test_border h5{
+        font-size: 14px;
+    }
+    .testmonial img.test_right_dot{
+        margin-right: 32px;
+        margin-top: -44px;
+    }
+    .testmonial .slick-prev, .slick-next{
+        visibility: hidden;
+    }
+    
+    /*** testmonial sec end ***/
+    
+    /*** our clients sec start ***/
+    
+    .work_with .work_con{
+        padding-top: 75px;
+    }
+    .work_with .work_con h4{
+        font-size: 36px;
+    }
+    .work_with .work_con img.work_shape{
+        display: none;
+    }
+    .work_with .work_con p{
+        font-size: 15px;
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .work_with .work_con .work_bg{
+        width: 180px;
+    }
+    .work_with .work_con .work_bg i {
+	   background-size: 100%;
+	   width: 100%;
+	   height: 100%;
+    }
+    .work_with .work_con .work_bg i img{
+        width: 100%;
+    }
+    .work_with .work_con .slick-next{
+        visibility: visible;
+        top: 120%;
+    }
+    .work_with .work_con .slick-prev{
+        left: 75%;
+        top: 120%;
+    }
+    
+    
+    /*** our clients sec end ***/
+    
+    
+    /*** contact sec start ***/
+    
+    .contact_us{
+        margin-top: -32px;
+        height: 720px;
+    }
+    .contact_us .contact_form h4{
+        font-size: 35px;
+    }
+    .contact_us .contact_form img.con_shape{
+        display: none;
+    }
+    .contact_us .contact_form{
+        width: 100%;
+    }
+    .contact_us .contact_form .inner{
+        padding-top: 0px;
+    }
+    .contact_us .contact_form .inner ul li textarea{
+        width: 580px;
+    }
+    
+    /*** contact sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: -128px;
+    }
+    .footer .footer_content{
+        padding-top: 100px;
+    }
+    .footer .footer_content .tab_view{
+        padding: 15px;
+    }
+    .footer .footer_content img{
+        width: auto;
+        padding-bottom: 15px;
+    }
+    .footer .footer_nav{
+        padding: 0px;
+    }
+    .footer .footer_content .footer_nav h5{
+        padding-bottom: 10px;
+        margin-bottom: 0px;
+    }
+    .footer .footer_content .footer_nav h4{
+        font-size: 20px;
+    }
+    .footer .footer_content .footer_nav ul li{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li:first-child{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li a{
+        text-align: left;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(2n) a i{
+        float: left;
+        margin-left: -18px;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(3n) a i {
+        top: 5px;
+        float: left;
+        margin-left: -24px;
+    }
+    .footer .footer_content .footer_nav ul li a.con_em{
+        font-size: 14px;
+    }
+    .footer .footer_content .footer_nav ul li a i.m_footer {
+        float: left;
+        top: 6px;
+        margin-left: 5px;
+        
+    }
+    .footer .footer_content ul li.social_box:last-child {
+        padding: 5px 10px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .footer .footer_content .footer_nav p{
+        font-size: 15px;
+    }
+    .footer img.footer_border{
+        width: 100%;
+        padding-top: 16px;
+    }
+    .footer p.copyright{
+        padding: 20px 0px;
+    }
+    
+    /*** footer sec end ***/
+    
+    
+}
+
+@media only screen and (min-width: 481px) and (max-width: 640px){
+    
+    
+        /*** banner sec start ***/
+    
+    .banner{
+        height: 675px;
+    }
+    .banner .logo_nav .logo img{
+        width: 40%;
+    }
+    .mean-container .mean-bar{
+        margin-top: 0px;
+    }
+    .mean-container .mean-nav{
+        width: 210%;
+    }
+    #header .navMenu ul li{
+        padding: 19px 10px;
+    }
+    #header .navMenu ul li::after{
+        top: 28px;
+        right: -3px;
+    }
+    #header .navMenu ul li:last-child a{
+        padding-right: 15px;
+    }
+    #header .navMenu ul li{
+        padding: 7px 10px;
+    }
+    #header .navMenu ul li a:hover{
+        padding-bottom: 10px;
+    }
+    #header .navMenu ul{
+        margin: 0px -26px 0px 0px;
+    }
+
+    .banner .banner_cap{
+        padding-top: 20px;
+    }
+    .banner .banner_cap h1{
+        font-size: 35px;
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding-bottom: 0px;
+        line-height: 50px;
+        width: 98%;
+    }
+    .banner .banner_cap p{
+        font-size: 15px;
+        line-height: 28px;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+    .banner .banner_cap .follow{
+        display: none;
+    }
+    .banner .banner_cap a.get_to_ccg{
+        padding: 16.35px 14.2px;
+        margin-bottom: 10px;
+    }
+    #scroll{
+        display: none;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** about CCG sec start ***/
+    
+    .about_ccg{
+        margin-top: -100px;
+    }
+    .about_ccg ul li .outer_left_pic{
+        width: auto;
+        margin-right: 0px;
+        height: auto;
+        float: none;
+    }
+    .about_ccg ul li .outer_left_pic::after{
+        display: none;
+    }
+    .about_ccg ul li .outer_left_pic img{
+        margin-left: -75px;
+    }
+    .about_ccg ul li .about_ccg_content{
+        padding-top: 35px;
+    }
+    .about_ccg ul li .about_ccg_content h6{
+        padding-bottom: 13px;
+    }
+    .about_ccg ul li .about_ccg_content h2{
+        padding-bottom: 20px;
+        font-size: 32px;
+    }
+    .about_ccg ul li .about_ccg_content::before{
+        display: none;
+    }
+    .about_ccg ul li .about_ccg_content p{
+        margin-top: -10px;
+        font-size: 14px;
+        padding-bottom: 22px;
+    }
+    .about_ccg .five_box{
+        width: auto;
+        margin-top: 30px;
+        position: relative;
+    }
+    .about_ccg .five_box ul li{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .about_ccg .five_box ul li h4{
+        font-size: 16px;
+    }
+    .about_ccg .five_box ul li:first-child{
+        margin: 10px auto 10px 0px;
+        display: block;
+        
+    }
+    
+    /*** about CCG sec end ***/
+    
+    /*** what we do sec start ***/
+    
+    .we_do h6{
+        padding-top: 70px;
+    }
+    .we_do h4{
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+    .we_do img.core{
+        display: none;
+    }
+    .we_do .we_do_content{
+        padding-top: 0px;
+    }
+    .we_do .we_do_content .bg_white{
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .we_do .we_do_content .bg_white .center_icon img{
+        width: auto;
+    }
+    .we_do .we_do_content .bg_white .center_icon.tab_org img{
+        width: auto;
+    }
+    .we_do .we_do_content .bg_white h5{
+        width: 100%;
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    .we_do .we_do_content .bg_white p {
+	   width: 84%;
+	   padding-top: 0;
+	   padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white .center_icon{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.man_con{
+        width: 100%;
+    }
+    .we_do .we_do_content .bg_white .center_icon.org{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white .center_icon.man{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white p.man_pra{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white p.org_pra{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.org_con{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 15px;
+    }
+    .we_do .we_do_content .tab{
+        padding: 0 8.5px !important;
+    }
+    
+    /*** what we do sec end ***/
+    
+    /*** testmonial sec start ***/
+    
+    .testmonial{
+        height: 570px;
+    }
+    .testmonial h6{
+        padding-top: 100px;
+    }
+    .testmonial img.test_shape{
+        display: none;
+    }
+    .testmonial h4{
+        font-size: 32px;
+    }
+    .testmonial .test_border{
+        background-size: 98%;
+        margin-top: -23px;
+    }
+    .testmonial .test_border p{
+        padding: 67px 10px 15px 10px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .testmonial .test_border h5{
+        font-size: 14px;
+    }
+    .testmonial img.test_right_dot{
+        display: none;
+    }
+    .testmonial .slick-prev, .slick-next{
+        visibility: hidden;
+    }
+    
+    /*** testmonial sec end ***/
+    
+    /*** our clients sec start ***/
+    
+    .work_with .work_con{
+        padding-top: 75px;
+    }
+    .work_with .work_con h4{
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+    .work_with .work_con img.work_shape{
+        display: none;
+    }
+    .work_with .work_con p{
+        font-size: 15px;
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .work_with .work_con .work_bg{
+        width: 135px;
+    }
+    .work_with .work_con .work_bg i {
+	   background-size: 100%;
+	   width: 100%;
+	   height: 100%;
+    }
+    .work_with .work_con .work_bg i img{
+        width: 100%;
+    }
+    .work_with .work_con .slick-next{
+        visibility: visible;
+        top: 120%;
+    }
+    .work_with .work_con .slick-prev{
+        left: 70%;
+        top: 120%;
+    }
+    
+    
+    /*** our clients sec end ***/
+    
+    
+    /*** contact sec start ***/
+    
+    .contact_us{
+        margin-top: 0px;
+        height: 840px;
+    }
+    .contact_us .contact_form h6{
+        padding-top: 100px;
+    }
+    .contact_us .contact_form h4{
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+    .contact_us .contact_form .inner ul li{
+        width: 100%;
+        font: none;
+    }
+    .contact_us .contact_form img.con_shape{
+        display: none;
+    }
+    .contact_us .contact_form{
+        width: 100%;
+    }
+    .contact_us .contact_form .inner{
+        padding-top: 0px;
+    }
+    .contact_us .contact_form .inner ul li textarea{
+        width: 100%;
+    }
+    .contact_us .contact_form .inner button{
+        padding: 19.5px 40.5px;
+    }
+    
+    /*** contact sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: -128px;
+    }
+    .footer .footer_content{
+        padding-top: 100px;
+    }
+    .footer .footer_content .tab_view{
+        padding: 15px;
+    }
+    .footer .footer_content img{
+        width: auto;
+        padding-bottom: 15px;
+    }
+    .footer .footer_nav{
+        padding: 0px;
+    }
+    .footer .footer_content .footer_nav h5{
+        padding-bottom: 10px;
+        margin-bottom: 0px;
+    }
+    .footer .footer_content .footer_nav h4{
+        font-size: 20px;
+    }
+    .footer .footer_content .footer_nav ul li{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li:first-child{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li a{
+        text-align: left;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(2n) a i{
+        float: left;
+        margin-left: -18px;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(3n) a i {
+        top: 5px;
+        float: left;
+        margin-left: -24px;
+    }
+    .footer .footer_content .footer_nav ul li a.con_em{
+        font-size: 14px;
+    }
+    .footer .footer_content .footer_nav ul li a i.m_footer {
+        float: left;
+        top: 6px;
+        margin-left: 5px;
+        
+    }
+    .footer .footer_content ul li.social_box:last-child {
+        padding: 5px 10px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .footer .footer_content .footer_nav p{
+        font-size: 15px;
+    }
+    .footer img.footer_border{
+        width: 100%;
+        padding-top: 17px;
+    }
+    .footer p.copyright{
+        padding: 20px 0px;
+    }
+    
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (min-width: 321px) and (max-width: 480px){
+    
+    
+        /*** banner sec start ***/
+    
+    .banner{
+        height: 675px;
+    }
+    .banner .logo_nav .logo img{
+        width: 30%;
+    }
+    .mean-container .mean-bar{
+        margin-top: -25px;
+    }
+    .mean-container .mean-nav{
+        width: 100%;
+    }
+    #header .navMenu ul li{
+        padding: 19px 10px;
+    }
+    #header .navMenu ul li::after{
+        top: 28px;
+        right: -3px;
+    }
+    #header .navMenu ul li:last-child a{
+        padding-right: 15px;
+    }
+    #header .navMenu ul li{
+        padding: 7px 10px;
+    }
+    #header .navMenu ul li a:hover{
+        padding-bottom: 10px;
+    }
+    #header .navMenu ul{
+        margin: 0px -26px 0px 0px;
+    }
+
+    .banner .banner_cap{
+        padding-top: 20px;
+    }
+    .banner .banner_cap h1{
+        font-size: 26px;
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding-bottom: 0px;
+        line-height: 50px;
+        width: 98%;
+    }
+    .banner .banner_cap p{
+        font-size: 15px;
+        line-height: 28px;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+    .banner .banner_cap .follow{
+        display: none;
+    }
+    .banner .banner_cap a.get_to_ccg{
+        padding: 16.35px 14.2px;
+        float: none;
+        text-align: center;
+        margin: 0px auto;
+        display: table;
+    }
+    #scroll{
+        display: none;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** about CCG sec start ***/
+    
+    .about_ccg{
+        margin-top: -100px;
+    }
+    .about_ccg ul li .outer_left_pic{
+        width: auto;
+        margin-right: 0px;
+        height: auto;
+        float: none;
+    }
+    .about_ccg ul li .outer_left_pic::after{
+        display: none;
+    }
+    .about_ccg ul li .outer_left_pic img{
+        margin-left: -75px;
+    }
+    .about_ccg ul li .about_ccg_content{
+        padding-top: 35px;
+    }
+    .about_ccg ul li .about_ccg_content h6{
+        padding-bottom: 13px;
+    }
+    .about_ccg ul li .about_ccg_content h2{
+        padding-bottom: 20px;
+        font-size: 32px;
+    }
+    .about_ccg ul li .about_ccg_content::before{
+        display: none;
+    }
+    .about_ccg ul li .about_ccg_content p{
+        margin-top: -10px;
+        font-size: 14px;
+        padding-bottom: 22px;
+    }
+    .about_ccg .five_box{
+        width: auto;
+        margin-top: 30px;
+        position: relative;
+    }
+    .about_ccg .five_box ul li{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .about_ccg .five_box ul li h4{
+        font-size: 16px;
+    }
+    .about_ccg .five_box ul li:first-child{
+        margin: 10px auto 10px 0px;
+        display: block;
+        
+    }
+    
+    /*** about CCG sec end ***/
+    
+    /*** what we do sec start ***/
+    
+    .we_do h6{
+        padding-top: 70px;
+    }
+    .we_do h4{
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+    .we_do img.core{
+        display: none;
+    }
+    .we_do .we_do_content{
+        padding-top: 0px;
+    }
+    .we_do .we_do_content .bg_white{
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .we_do .we_do_content .bg_white .center_icon img{
+        width: auto;
+    }
+    .we_do .we_do_content .bg_white .center_icon.tab_org img{
+        width: auto;
+    }
+    .we_do .we_do_content .bg_white h5{
+        width: 100%;
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    .we_do .we_do_content .bg_white p {
+	   width: 84%;
+	   padding-top: 0;
+	   padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white .center_icon{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.man_con{
+        width: 100%;
+    }
+    .we_do .we_do_content .bg_white .center_icon.org{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white .center_icon.man{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white p.man_pra{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white p.org_pra{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.org_con{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 15px;
+    }
+    .we_do .we_do_content .tab{
+        padding: 0 8.5px !important;
+    }
+    
+    /*** what we do sec end ***/
+    
+    /*** testmonial sec start ***/
+    
+    .testmonial{
+        height: 650px;
+    }
+    .testmonial h6{
+        padding-top: 100px;
+    }
+    .testmonial img.test_shape{
+        display: none;
+    }
+    .testmonial h4{
+        font-size: 32px;
+    }
+    .testmonial .test_border{
+        background-size: 98%;
+        margin-top: -23px;
+        background: none;
+    }
+    .testmonial .test_border p{
+        padding: 67px 10px 15px 10px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .testmonial .test_border h5{
+        font-size: 14px;
+    }
+    .testmonial img.test_right_dot{
+        display: none;
+    }
+    .testmonial .slick-prev, .slick-next{
+        visibility: hidden;
+    }
+    
+    /*** testmonial sec end ***/
+    
+    /*** our clients sec start ***/
+    
+    .work_with{
+        height: 600px;
+    }
+    .work_with .work_con{
+        padding-top: 30px;
+    }
+    .work_with .work_con h4{
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .work_with .work_con img.work_shape{
+        display: none;
+    }
+    .work_with .work_con p{
+        font-size: 15px;
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .work_with .work_con .work_bg{
+        width: 82px;
+        height: 100px ;
+    }
+    .work_with .work_con .work_bg i {
+	   background-size: 100%;
+	   width: 100%;
+	   height: 100%;
+    }
+    .work_with .work_con .work_bg i img{
+        width: 100%;
+    }
+    .work_with .work_con .slick-next{
+        visibility: visible;
+        top: 120%;
+    }
+    .work_with .work_con .slick-prev{
+        left: 59%;
+        top: 120%;
+    }
+    
+    
+    /*** our clients sec end ***/
+    
+    
+    /*** contact sec start ***/
+    
+    .contact_us{
+        margin-top: 0px;
+        height: 840px;
+    }
+    .contact_us .contact_form h6{
+        padding-top: 100px;
+    }
+    .contact_us .contact_form h4{
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+    .contact_us .contact_form .inner ul li{
+        width: 100%;
+        font: none;
+    }
+    .contact_us .contact_form img.con_shape{
+        display: none;
+    }
+    .contact_us .contact_form{
+        width: 100%;
+    }
+    .contact_us .contact_form .inner{
+        padding-top: 0px;
+    }
+    .contact_us .contact_form .inner ul li textarea{
+        width: 100%;
+    }
+    .contact_us .contact_form .inner button{
+        padding: 19.5px 40.5px;
+    }
+    
+    /*** contact sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: -128px;
+    }
+    .footer .footer_content{
+        padding-top: 100px;
+    }
+    .footer .footer_content .tab_view{
+        padding: 15px;
+    }
+    .footer .footer_content img{
+        width: auto;
+        padding-bottom: 15px;
+    }
+    .footer .footer_nav{
+        padding: 0px;
+    }
+    .footer .footer_content .footer_nav h5{
+        padding-bottom: 10px;
+        margin-bottom: 0px;
+    }
+    .footer .footer_content .footer_nav h4{
+        font-size: 20px;
+    }
+    .footer .footer_content .footer_nav ul li{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li:first-child{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li a{
+        text-align: left;
+        font-size: 14px !important;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(2n) a i{
+        float: left;
+        margin-left: 0px;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(3n) a i {
+        top: 5px;
+        float: left;
+        margin-left: -24px;
+    }
+    .footer .footer_content .footer_nav ul li a.con_em{
+        font-size: 14px;
+    }
+    .footer .footer_content .footer_nav ul li a i.m_footer {
+        float: left;
+        top: 6px;
+        margin-left: 5px;
+        
+    }
+    .footer .footer_content ul li.social_box:last-child {
+        padding: 5px 10px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .footer .footer_content .footer_nav p{
+        font-size: 15px;
+    }
+    .footer img.footer_border{
+        width: 100%;
+        padding-top: 18px;
+    }
+    .footer p.copyright{
+        padding: 20px 0px;
+    }
+    
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (max-width: 320px){
+    
+    
+        /*** banner sec start ***/
+    
+    .banner{
+        height: 675px;
+    }
+    .banner .logo_nav .logo img{
+        width: 30%;
+    }
+    .mean-container .mean-bar{
+        margin-top: -25px;
+    }
+    .mean-container .mean-nav{
+        width: 100%;
+    }
+    #header .navMenu ul li{
+        padding: 19px 10px;
+    }
+    #header .navMenu ul li::after{
+        top: 28px;
+        right: -3px;
+    }
+    #header .navMenu ul li:last-child a{
+        padding-right: 15px;
+    }
+    #header .navMenu ul li{
+        padding: 7px 10px;
+    }
+    #header .navMenu ul li a:hover{
+        padding-bottom: 10px;
+    }
+    #header .navMenu ul{
+        margin: 0px -26px 0px 0px;
+    }
+
+    .banner .banner_cap{
+        padding-top: 20px;
+    }
+    .banner .banner_cap h1{
+        font-size: 26px;
+        margin-top: 0px;
+        margin-bottom: 15px;
+        padding-bottom: 0px;
+        line-height: 50px;
+        width: 98%;
+    }
+    .banner .banner_cap p{
+        font-size: 15px;
+        line-height: 28px;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+    .banner .banner_cap .follow{
+        display: none;
+    }
+    .banner .banner_cap a.get_to_ccg{
+        padding: 16.35px 14.2px;
+        float: none;
+        text-align: center;
+        margin: 0px auto;
+        display: table;
+    }
+    #scroll{
+        display: none;
+    }
+    
+    /*** banner sec end ***/
+    
+    /*** about CCG sec start ***/
+    
+    .about_ccg{
+        margin-top: -100px;
+    }
+    .about_ccg ul li .outer_left_pic{
+        width: auto;
+        margin-right: 0px;
+        height: auto;
+        float: none;
+    }
+    .about_ccg ul li .outer_left_pic::after{
+        display: none;
+    }
+    .about_ccg ul li .outer_left_pic img{
+        margin-left: -75px;
+    }
+    .about_ccg ul li .about_ccg_content{
+        padding-top: 35px;
+    }
+    .about_ccg ul li .about_ccg_content h6{
+        padding-bottom: 13px;
+    }
+    .about_ccg ul li .about_ccg_content h2{
+        padding-bottom: 20px;
+        font-size: 32px;
+    }
+    .about_ccg ul li .about_ccg_content::before{
+        display: none;
+    }
+    .about_ccg ul li .about_ccg_content p{
+        margin-top: -10px;
+        font-size: 14px;
+        padding-bottom: 22px;
+    }
+    .about_ccg .five_box{
+        width: auto;
+        margin-top: 30px;
+        position: relative;
+    }
+    .about_ccg .five_box ul li{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .about_ccg .five_box ul li h4{
+        font-size: 16px;
+    }
+    .about_ccg .five_box ul li:first-child{
+        margin: 10px auto 10px 0px;
+        display: block;
+        
+    }
+    
+    /*** about CCG sec end ***/
+    
+    /*** what we do sec start ***/
+    
+    .we_do h6{
+        padding-top: 70px;
+    }
+    .we_do h4{
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+    .we_do img.core{
+        display: none;
+    }
+    .we_do .we_do_content{
+        padding-top: 0px;
+    }
+    .we_do .we_do_content .bg_white{
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .we_do .we_do_content .bg_white .center_icon img{
+        width: auto;
+    }
+    .we_do .we_do_content .bg_white .center_icon.tab_org img{
+        width: auto;
+    }
+    .we_do .we_do_content .bg_white h5{
+        width: 100%;
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    .we_do .we_do_content .bg_white p {
+	   width: 84%;
+	   padding-top: 0;
+	   padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white .center_icon{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.man_con{
+        width: 100%;
+    }
+    .we_do .we_do_content .bg_white .center_icon.org{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white .center_icon.man{
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white p.man_pra{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white p.org_pra{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }
+    .we_do .we_do_content .bg_white h5.org_con{
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 15px;
+    }
+    .we_do .we_do_content .tab{
+        padding: 0 8.5px !important;
+    }
+    
+    /*** what we do sec end ***/
+    
+    /*** testmonial sec start ***/
+    
+    .testmonial{
+        height: 650px;
+    }
+    .testmonial h6{
+        padding-top: 100px;
+    }
+    .testmonial img.test_shape{
+        display: none;
+    }
+    .testmonial h4{
+        font-size: 32px;
+    }
+    .testmonial .test_border{
+        background-size: 98%;
+        margin-top: -23px;
+        background: none;
+    }
+    .testmonial .test_border p{
+        padding: 67px 10px 15px 10px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .testmonial .test_border h5{
+        font-size: 14px;
+    }
+    .testmonial img.test_right_dot{
+        display: none;
+    }
+    .testmonial .slick-prev, .slick-next{
+        visibility: hidden;
+    }
+    
+    /*** testmonial sec end ***/
+    
+    /*** our clients sec start ***/
+    
+    .work_with{
+        height: 600px;
+    }
+    .work_with .work_con{
+        padding-top: 30px;
+    }
+    .work_with .work_con h4{
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    .work_with .work_con img.work_shape{
+        display: none;
+    }
+    .work_with .work_con p{
+        font-size: 15px;
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .work_with .work_con .work_bg{
+        width: 82px;
+        height: 100px ;
+    }
+    .work_with .work_con .work_bg i {
+	   background-size: 100%;
+	   width: 100%;
+	   height: 100%;
+    }
+    .work_with .work_con .work_bg i img{
+        width: 100%;
+    }
+    .work_with .work_con .slick-next{
+        visibility: visible;
+        top: 120%;
+    }
+    .work_with .work_con .slick-prev{
+        left: 59%;
+        top: 120%;
+    }
+    
+    
+    /*** our clients sec end ***/
+    
+    
+    /*** contact sec start ***/
+    
+    .contact_us{
+        margin-top: 0px;
+        height: 840px;
+    }
+    .contact_us .contact_form h6{
+        padding-top: 100px;
+    }
+    .contact_us .contact_form h4{
+        font-size: 32px;
+        padding-bottom: 20px;
+    }
+    .contact_us .contact_form .inner ul li{
+        width: 100%;
+        font: none;
+    }
+    .contact_us .contact_form img.con_shape{
+        display: none;
+    }
+    .contact_us .contact_form{
+        width: 100%;
+    }
+    .contact_us .contact_form .inner{
+        padding-top: 0px;
+    }
+    .contact_us .contact_form .inner ul li textarea{
+        width: 100%;
+    }
+    .contact_us .contact_form .inner button{
+        padding: 19.5px 40.5px;
+    }
+    
+    /*** contact sec end ***/
+    
+    /*** footer sec start ***/
+    
+    .footer{
+        margin-top: -128px;
+    }
+    .footer .footer_content{
+        padding-top: 100px;
+    }
+    .footer .footer_content .tab_view{
+        padding: 15px;
+    }
+    .footer .footer_content img{
+        width: auto;
+        padding-bottom: 15px;
+    }
+    .footer .footer_nav{
+        padding: 0px;
+    }
+    .footer .footer_content .footer_nav h5{
+        padding-bottom: 10px;
+        margin-bottom: 0px;
+    }
+    .footer .footer_content .footer_nav h4{
+        font-size: 20px;
+    }
+    .footer .footer_content .footer_nav ul li{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li:first-child{
+        width: 100%;
+    }
+    .footer .footer_content .footer_nav ul li a{
+        text-align: left;
+        font-size: 14px !important;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(2n) a i{
+        float: left;
+        margin-left: 0px;
+    }
+    .footer .footer_content .footer_nav ul li:nth-child(3n) a i {
+        top: 5px;
+        float: left;
+        margin-left: -24px;
+    }
+    .footer .footer_content .footer_nav ul li a.con_em{
+        font-size: 14px;
+    }
+    .footer .footer_content .footer_nav ul li a i.m_footer {
+        float: left;
+        top: 6px;
+        margin-left: 5px;
+        
+    }
+    .footer .footer_content ul li.social_box:last-child {
+        padding: 5px 10px;
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    .footer .footer_content .footer_nav p{
+        font-size: 15px;
+    }
+    .footer img.footer_border{
+        width: 100%;
+        padding-top: 18px;
+    }
+    .footer p.copyright{
+        padding: 20px 0px;
+    }
+    
+    /*** footer sec end ***/
+    
+}
+ 
